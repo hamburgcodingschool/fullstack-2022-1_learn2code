@@ -1,9 +1,10 @@
-# {{ Course Name }}
-## Full Stack Course - {{ Start Date }}
-
+# Learn 2 Code
+## Full Stack Course - 14.02.2022
 ### ✏️ Homework
 
-- Homework will be posted here
+- [Homework 1](https://github.com/hamburgcodingschool/fullstack-2022-1_learn2code/blob/main/homework/homework_1.md)
+- [Homework 2](https://github.com/hamburgcodingschool/fullstack-2022-1_learn2code/blob/main/homework/homework_2.md)
+- [Homework 3](https://github.com/hamburgcodingschool/fullstack-2022-1_learn2code/blob/main/homework/homework_3.md)
 
 ### 📄 Docs
 

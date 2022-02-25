@@ -17,5 +17,5 @@ Refactor the following functionalities into separate functions:
 - [] Sally greets the user (hw 2)
 - [] Sally guesses your number (hw 2)
 - [] Sally sings a song  (hw 3)
-- [] Sally does statistics on an array of numbers (hw 3)
-- [] Sally makes you guess a number   (hw 4)
+- [] Sally makes you guess a number  (hw 3)
+- [] Sally does statistics on an array of numbers (hw 4)
